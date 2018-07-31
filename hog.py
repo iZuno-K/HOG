@@ -192,7 +192,7 @@ if __name__ == '__main__':
     target = []
     _target = []
     progress = 0
-    scale = np.abs(np.mean(positive_data, axis=0))
+    scale = np.abs(np.mean(positive_data))
     for y in range(y_iter):
         for x in range(x_iter):
             yst = y * win_stride[0]
