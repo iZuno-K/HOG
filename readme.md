@@ -1,8 +1,8 @@
 # HOG-SVM
-HOG is original implementation.  
+HOG is my original implementation.  
 SVM is imported from sklearn.  
 ### Required libraries
- * sciki-lean (pip install sklearn)
+ * scikti-learn (pip install sklearn)
  * openCV (pip install opencv-contrib-python)
  
  
